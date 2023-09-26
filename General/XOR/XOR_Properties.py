@@ -12,4 +12,4 @@ FLAG_XOR_2 = pwn.xor(FLAG_XOR_3, KEY3)
 FLAG_XOR_1 = pwn.xor(FLAG_XOR_2, KEY2)
 FLAG = pwn.xor(FLAG_XOR_1, KEY1)
 
-print("FLAG =", FLAG)
+print("FLAG =", FLAG.decode('utf-8'))
