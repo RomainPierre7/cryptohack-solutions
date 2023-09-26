@@ -52,26 +52,26 @@ pip3 install pwntools
 #### Encoding
 * ASCII
 * Hex
-* Base64
-* Bytes and Big Integers
-* Encoding Challenge
+* Base64 *TODO*
+* Bytes and Big Integers *TODO*
+* Encoding Challenge *TODO*
 #### XOR
-* XOR Starter
+* XOR Starter *TODO*
 * XOR Properties
 * Favourite byte
-* You either know, XOR you don't
-* Lemur XOR
+* You either know, XOR you don't *TODO*
+* Lemur XOR *TODO*
 #### Mathematics
-* Greatest Common Divisor
-* Extended GCD
-* Modular Arithmetic
-* Modular Arithmetic
-* Modular Inverting
+* Greatest Common Divisor *TODO*
+* Extended GCD *TODO*
+* Modular Arithmetic *TODO*
+* Modular Arithmetic *TODO*
+* Modular Inverting *TODO*
 #### Data formats
-* Privacy-Enhanced Mail?
-* CERTainly not
-* SSH Keys
-* Transparency
+* Privacy-Enhanced Mail? *TODO*
+* CERTainly not *TODO*
+* SSH Keys *TODO*
+* Transparency *TODO*
 
 ### Mathematics
 *TODO*
