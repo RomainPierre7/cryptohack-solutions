@@ -1,9 +1,12 @@
 # Cryptohack_soluce
 
-This repository shows solutions of the challenges offered by [Cryptohack.org](cryptohack.org)
+This repository shows solutions of the challenges offered by [Cryptohack.org](cryptohack.org).
+
+To find a solution, please refer to the following file. Afterward, search for it in the repository (the repository follows the same structure as the README).
+
+> The provided structure corresponds to the "Challenges" section of [Cryptohack.org](cryptohack.org).org, not the "Courses" section.
 
 ## Table of Contents
-
 - [Cryptohack\_soluce](#cryptohack_soluce)
   - [Table of Contents](#table-of-contents)
   - [Modules to install](#modules-to-install)
