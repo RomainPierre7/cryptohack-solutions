@@ -46,14 +46,14 @@ pip3 install pwntools
 #### Challenges
 * Finding Flags
 * Great Snakes
-* Network Attacks
+* Network Attacks *TODO*
 
 ### Général
 #### Encoding
 * ASCII
 * Hex
 * Base64
-* Bytes and Big Integers *TODO*
+* Bytes and Big Integers
 * Encoding Challenge *TODO*
 #### XOR
 * XOR Starter
