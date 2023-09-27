@@ -52,11 +52,11 @@ pip3 install pwntools
 #### Encoding
 * ASCII
 * Hex
-* Base64 *TODO*
+* Base64
 * Bytes and Big Integers *TODO*
 * Encoding Challenge *TODO*
 #### XOR
-* XOR Starter *TODO*
+* XOR Starter
 * XOR Properties
 * Favourite byte
 * You either know, XOR you don't *TODO*
