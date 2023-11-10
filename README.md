@@ -59,7 +59,7 @@ pip3 install pwntools
 * XOR Starter
 * XOR Properties
 * Favourite byte
-* You either know, XOR you don't *TODO*
+* You either know, XOR you don't
 * Lemur XOR *TODO*
 #### Mathematics
 * Greatest Common Divisor *TODO*
