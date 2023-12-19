@@ -6,29 +6,6 @@ To find a solution, please refer to the following file. Afterward, search for it
 
 > The provided structure corresponds to the "Challenges" section of [Cryptohack.org](cryptohack.org).org, not the "Courses" section.
 
-## Table of Contents
-- [Cryptohack\_soluce](#cryptohack_soluce)
-  - [Table of Contents](#table-of-contents)
-  - [Modules to install](#modules-to-install)
-  - [Challenges](#challenges)
-    - [Introduction](#introduction)
-      - [Challenges](#challenges-1)
-    - [Général](#général)
-      - [Encoding](#encoding)
-      - [XOR](#xor)
-      - [Mathematics](#mathematics)
-      - [Data formats](#data-formats)
-    - [Mathematics](#mathematics-1)
-    - [Symmetric Ciphers](#symmetric-ciphers)
-    - [RSA](#rsa)
-    - [Diffie-Hellman](#diffie-hellman)
-    - [Elliptic Curves](#elliptic-curves)
-    - [Hash Functions](#hash-functions)
-    - [Crypto On The Web](#crypto-on-the-web)
-    - [MISC](#misc)
-    - [Post-Quantum](#post-quantum)
-    - [CTF Archive](#ctf-archive)
-
 ## Modules to install
 
 * cryptodome
@@ -40,6 +17,7 @@ pip3 install PyCryptodome
 ```
 pip3 install pwntools
 ```
+
 ## Challenges
 
 ### Introduction
@@ -48,7 +26,7 @@ pip3 install pwntools
 * Great Snakes
 * Network Attacks *TODO*
 
-### Général
+### General
 #### Encoding
 * ASCII
 * Hex
@@ -67,13 +45,29 @@ pip3 install pwntools
 * Modular Arithmetic 1
 * Modular Arithmetic 2
 * Modular Inverting
-#### Data formats
+#### Data Formats
 * Privacy-Enhanced Mail? *TODO*
 * CERTainly not *TODO*
 * SSH Keys *TODO*
 * Transparency *TODO*
 
 ### Mathematics
+#### Modular Math
+* Quadratic Residues
+* Legendre Symbol *TODO*
+* Modular Square Root *TODO*
+* Chinese Remainder Theorem *TODO*
+
+#### Lattices
+*TODO*
+
+#### Brainteasers Part 1
+*TODO*
+
+#### Brainteasers Part 2
+*TODO*
+
+#### Primes
 *TODO*
 
 ### Symmetric Ciphers
