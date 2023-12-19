@@ -54,7 +54,7 @@ pip3 install pwntools
 ### Mathematics
 #### Modular Math
 * Quadratic Residues
-* Legendre Symbol *TODO*
+* Legendre Symbol
 * Modular Square Root *TODO*
 * Chinese Remainder Theorem *TODO*
 
