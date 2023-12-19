@@ -62,11 +62,11 @@ pip3 install pwntools
 * You either know, XOR you don't
 * Lemur XOR *TODO*
 #### Mathematics
-* Greatest Common Divisor *TODO*
-* Extended GCD *TODO*
-* Modular Arithmetic *TODO*
-* Modular Arithmetic *TODO*
-* Modular Inverting *TODO*
+* Greatest Common Divisor
+* Extended GCD
+* Modular Arithmetic 1
+* Modular Arithmetic 2
+* Modular Inverting
 #### Data formats
 * Privacy-Enhanced Mail? *TODO*
 * CERTainly not *TODO*
