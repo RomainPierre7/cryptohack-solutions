@@ -1,4 +1,4 @@
-# Cryptohack_soluce
+# Cryptohack solutions
 
 This repository shows solutions of the challenges offered by [Cryptohack.org](cryptohack.org).
 
